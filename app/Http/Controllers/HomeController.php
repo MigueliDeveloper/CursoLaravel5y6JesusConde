@@ -9,9 +9,6 @@ class HomeController extends Controller
         return 'hola mundo';
     }
 
-
-
-
 }
 
 
